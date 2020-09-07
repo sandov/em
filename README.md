@@ -40,5 +40,6 @@ Append the contents of em.bash to the end of your .bashrc file. This tool won't 
 
 `rm -rf ~/.python_envs/`
 
-This will delete the `~/.python_envs` directory and all its environments
+This will delete the `~/.python_envs` directory and all its environments.
 
+Then, delete the code you copied into your .bashrc
