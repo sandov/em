@@ -36,7 +36,7 @@ Append the contents of em.bash to the end of your .bashrc file. This tool won't 
 
 - `em rm env_name` deletes the environment called env\_name
 
-## how to "uninstall"
+## How to "uninstall"
 
 `rm -rf ~/.python_envs/`
 
