@@ -40,6 +40,8 @@ Of course, you also need to have `virtualenv` accesible through your `$PATH`
 
 - `em rm env_name` deletes the environment called env\_name
 
+Keep in mind, there's no tab completion, so I keep my environment names short
+
 ## How to "uninstall"
 
 `rm -rf ~/.python_envs/`
