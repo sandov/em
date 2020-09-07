@@ -1,4 +1,4 @@
-# em, an environment manager for Python virtualenvs
+# `em`, an environment manager for Python virtualenvs
 
 ## What's this?
 
