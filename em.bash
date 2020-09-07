@@ -5,7 +5,7 @@ em(){
     if [[ -z $1 ]]; then
         echo "subcommands: ls, mk, rm, a, d";
     elif [[ $1 == "ls" ]]; then 
-        ls ~/.python_envs/;
+        ls ~/.python_envs/ 2>/dev/null;
 
     elif [[ $1 == "mk" && -z $2 ]]; then
         echo "can't make: no name specified";
