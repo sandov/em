@@ -4,11 +4,11 @@
 
 A simple bash function that creates, deletes, activates and deactivates virtualenvs for me.
 
-I don't like typing this:
-    source path/to/my_virtualenv/bin/activate
+I don't like typing
+    `source path/to/my_virtualenv/bin/activate`
 
 Instead, I just type:
-    em a my_virtualenv
+    `em a my_virtualenv`
 
 I also don't like having `bin/`, `lib/` and `pyvenv.cfg` in my project directories, so I keep virtualenvs separated from my code. All virtualenvs are in the `~/.python_envs/` directory. My actual code is in another directory far, far away from that.
 
@@ -35,4 +35,10 @@ Append the contents of em.bash to the end of your .bashrc file. This tool won't 
 - `em d env_name` deactivates the environment called env\_name
 
 - `em rm env_name` deletes the environment called env\_name
+
+## how to "uninstall"
+
+`rm -rf ~/.python_envs/`
+
+This will delete the `~/.python_envs` directory and all its environments
 
