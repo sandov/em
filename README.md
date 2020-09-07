@@ -20,6 +20,10 @@ I feel more comfortable using virtualenv.
 
 Probably.
 
+### -- Your bash code smells
+
+Yes. I don't know bash. I wrote this because I needed it.
+
 ## How to "install"
 
 Append the contents of em.bash to the end of your `~/.bashrc` file.
