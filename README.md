@@ -22,7 +22,7 @@ Probably.
 
 ## How to "install"
 
-Append the contents of em.bash to the end of your `~/.bashrc file`.
+Append the contents of em.bash to the end of your `~/.bashrc` file.
 
 This tool won't work if you don't use bash.
 
