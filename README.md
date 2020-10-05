@@ -24,7 +24,7 @@ Probably.
 
 Append the contents of em.bash to the end of your `~/.bashrc` file.
 
-This tool won't work if you don't use bash.
+`em` may not work if you don't use bash.
 
 Of course, you also need to have `virtualenv` accesible through your `$PATH`
 
