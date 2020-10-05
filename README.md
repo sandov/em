@@ -36,7 +36,7 @@ Of course, you also need to have `virtualenv` accesible through your `$PATH`
 
 - `em a env_name` activates the environment called env\_name
 
-- `em d env_name` deactivates the environment called env\_name
+- `em d` deactivates the currently active environment.
 
 - `em rm env_name` deletes the environment called env\_name
 
